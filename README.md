@@ -29,15 +29,15 @@ WHAT I USED
 
 INSTALLATION
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 This will install all of the required packages from within the requirements.txt file.
 
 EXECUTING THE CODE
 
-    To run the BOT
+To run the BOT
 
-python crytpo_prices.py
+    python crytpo_prices.py
 
 
 Contact me
