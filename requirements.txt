@@ -1,0 +1,7 @@
+requests==2.25.1
+urllib3==1.26.4
+certifi==2020.12.5
+chardet==4.0.0
+pyTelegramBotAPI==3.7.9
+idna==2.10
+pycoingecko==2.0.0
